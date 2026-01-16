@@ -3,9 +3,15 @@
 <br />
 
 A Ethical hacker and especialist in cybersecurity  -No limits for shine.
- 
-<img align="right" alt="GIF" src="https://i.postimg.cc/YqdzprBh/From-Klick-Pin-CF-ejdetik-Album-artwork-cover-art-Abstract-graphic-design-Motion-graphics-design(.gif" />
 
+<img 
+    align="right" 
+    alt="GIF" 
+    src="https://i.postimg.cc/YqdzprBh/From-Klick-Pin-CF-ejdetik-Album-artwork-cover-art-Abstract-graphic-design-Motion-graphics-design(.gif" 
+    width="300" 
+    height="300"
+/>
+ 
 **About Me :3**
 
 - 🌐 Undergraduate student with a strong interest in cybersecurity and ethical hacking.
