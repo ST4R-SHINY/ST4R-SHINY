@@ -15,10 +15,10 @@ A Ethical hacker and especialist in cybersecurity  -No limits for shine.
 **About Me :3**
 
 - 🌐 Undergraduate student with a strong interest in cybersecurity and ethical hacking.
-- 🌱 Exploring Java, using it for bots and automation.
+- 🌱 Exploring JavaScript, using it for bots and automation.
 - 🐉 My interest lies in cybersecurity and ethical hacking and red team.
 - 💬 Ask me anything, I love answering and teaching what I know to other people!
-- 📫 my discord: st4r_.shiny
+- 📫 my discord: st4r_.shiny / 
 
 **Languages and Tools:**  
 
