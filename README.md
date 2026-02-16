@@ -12,7 +12,7 @@ A Ethical hacker and especialist in cybersecurity  -No limits for shine.
     height="300"
 />
  
-**About Me :3**
+**About Me: **
 
 - 🌐 Undergraduate student with a strong interest in cybersecurity and ethical hacking.
 - 🌱 Exploring JavaScript, using it for bots and automation.
